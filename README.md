@@ -1,5 +1,6 @@
 # Flappy-Birb
-Creating a new version of flappy bird using C# and its libraries 
+Creating a new version of flappy bird using C# and its libraries.
+One of the few changes along with the visuals in this game inspired by Flappy Bird are the alternating birds after every points along with a shift in speeds and jump height.
 
 ### Included
 The UML diagram and an architectural diagram of the program is included in the files along with the source code
